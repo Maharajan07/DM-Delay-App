@@ -28,7 +28,7 @@ npm install
 ```bash
 npm run dev
 ```
-🛠 Features
+## 🛠 Features
 Type a message and set a delay in seconds
 
 "Send" the message after the delay using setTimeout
@@ -37,7 +37,7 @@ Cancel the timer before it completes
 
 Built with clean, modular components
 
-📁 Project Structure
+## 📁 Project Structure
 ```bash
 src/
 ├── components/
@@ -46,7 +46,7 @@ src/
 ├── main.tsx
 ├── index.css
 ```
-🧼 Code Highlights
+## 🧼 Code Highlights
 useRef for timeout tracking
 
 clearTimeout() for canceling scheduled actions
@@ -55,7 +55,7 @@ Responsive design with Tailwind CSS
 
 ShadCN components for a modern UI experience
 
-🧪 Future Enhancements
+## 🧪 Future Enhancements
 Add countdown animation
 
 Toast notifications for success/cancel
