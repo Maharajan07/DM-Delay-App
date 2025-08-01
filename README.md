@@ -1,25 +1,33 @@
+# 🕒 DM Delay App
+
+A fun and functional React + TypeScript app that lets you type a message and send it after a custom delay. Great for learning asynchronous behavior in UI, simulating scheduled messages, and mastering React hooks.
+
+---
+
+## 🎯 Tech Stack Used
+
+- **React** (with Vite)
+- **TypeScript**
+- **Tailwind CSS**
+- **ShadCN UI**
+
+---
+
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
-
 ```bash
 git clone https://github.com/your-username/dm-delay-app.git
 cd dm-delay-app
+```
 2. Install Dependencies
-bash
-Copy
-Edit
+```bash
 npm install
+```
 3. Run the Dev Server
-bash
-Copy
-Edit
+```bash
 npm run dev
-yaml
-Copy
-Edit
-
----
+```
 🛠 Features
 Type a message and set a delay in seconds
 
@@ -30,15 +38,14 @@ Cancel the timer before it completes
 Built with clean, modular components
 
 📁 Project Structure
-txt
-Copy
-Edit
+```bash
 src/
 ├── components/
 │   └── MessageForm.tsx
 ├── App.tsx
 ├── main.tsx
 ├── index.css
+```
 🧼 Code Highlights
 useRef for timeout tracking
 
@@ -57,10 +64,7 @@ Schedule multiple messages
 
 Store message history in local storage
 
-📸 Demo
-[Insert screenshot or GIF here]
-
 📄 License
 This project is open source and free to use under the MIT License.
 
-Made by Maharajan
+Made by Maharajan!
