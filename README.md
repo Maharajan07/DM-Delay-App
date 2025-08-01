@@ -64,7 +64,7 @@ Schedule multiple messages
 
 Store message history in local storage
 
-📄 License
+## 📄 License
 This project is open source and free to use under the MIT License.
 
-Made by Maharajan!
+#### Made by Maharajan!
