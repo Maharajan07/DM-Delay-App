@@ -32,13 +32,13 @@ npm run dev
 ---
 
 ## 🛠 Features
-Type a message and set a delay in seconds
+- Type a message and set a delay in seconds
 
-"Send" the message after the delay using setTimeout
+- "Send" the message after the delay using setTimeout
 
-Cancel the timer before it completes
+- Cancel the timer before it completes
 
-Built with clean, modular components
+- Built with clean, modular components
 
 ---
 
@@ -55,24 +55,24 @@ src/
 ---
 
 ## 🧼 Code Highlights
-useRef for timeout tracking
+- useRef for timeout tracking
 
-clearTimeout() for canceling scheduled actions
+- clearTimeout() for canceling scheduled actions
 
-Responsive design with Tailwind CSS
+- Responsive design with Tailwind CSS
 
-ShadCN components for a modern UI experience
+- ShadCN components for a modern UI experience
 
 ---
 
 ## 🧪 Future Enhancements
-Add countdown animation
+- Add countdown animation
 
-Toast notifications for success/cancel
+- Toast notifications for success/cancel
 
-Schedule multiple messages
+- Schedule multiple messages
 
-Store message history in local storage
+- Store message history in local storage
 
 ---
 
