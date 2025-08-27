@@ -28,6 +28,9 @@ npm install
 ```bash
 npm run dev
 ```
+
+---
+
 ## 🛠 Features
 Type a message and set a delay in seconds
 
@@ -36,6 +39,8 @@ Type a message and set a delay in seconds
 Cancel the timer before it completes
 
 Built with clean, modular components
+
+---
 
 ## 📁 Project Structure
 ```bash
@@ -46,6 +51,9 @@ src/
 ├── main.tsx
 ├── index.css
 ```
+
+---
+
 ## 🧼 Code Highlights
 useRef for timeout tracking
 
@@ -54,6 +62,8 @@ clearTimeout() for canceling scheduled actions
 Responsive design with Tailwind CSS
 
 ShadCN components for a modern UI experience
+
+---
 
 ## 🧪 Future Enhancements
 Add countdown animation
@@ -64,7 +74,6 @@ Schedule multiple messages
 
 Store message history in local storage
 
-## 📄 License
-This project is open source and free to use under the MIT License.
+---
 
 #### Made by Maharajan!
